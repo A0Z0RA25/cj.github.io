@@ -18,7 +18,6 @@ function myFunction() {
 
   function myFunction2() {
     if (y.style.display === "none") {
-      x.style.border = ""
       y.style.display = "block"
       x.style.display = "none"
       z.style.display = "none"
